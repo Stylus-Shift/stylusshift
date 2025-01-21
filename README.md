@@ -103,10 +103,10 @@ Below is a quick walkthrough of how to contribute:
    - Click the "Fork" button on GitHub to create your own copy of this repo.
 
 2. **Clone Your Fork**
-   ![Screenshot: Clone URL](https://harlequin-blonde-guanaco-849.mypinata.cloud/files/bafkreih5do7gpym6iocgscsa3wwkg3m4lrsor7zozf3vb2ipr3ccg4lddy?X-Algorithm=PINATA1&X-Date=1737485566&X-Expires=30&X-Method=GET&X-Signature=cee53cc10131d9eb630864b5b92bf8172bd6e38bea60abce8758dea82d7e6034)
+   ![Screenshot: Clone Command](https://harlequin-blonde-guanaco-849.mypinata.cloud/files/bafkreih5do7gpym6iocgscsa3wwkg3m4lrsor7zozf3vb2ipr3ccg4lddy?X-Algorithm=PINATA1&X-Date=1737485566&X-Expires=30&X-Method=GET&X-Signature=cee53cc10131d9eb630864b5b92bf8172bd6e38bea60abce8758dea82d7e6034)
    - In your terminal:
      ```bash
-     git clone https://github.com/Stylus-Shift/stylusshift.git
+     git clone https://github.com/YOUR_USERNAME/arbitrum-stylus-repo.git
      ```
    - Navigate to the repo directory on your local machine.
 
@@ -138,6 +138,17 @@ Below is a quick walkthrough of how to contribute:
 
 --------------------------------------------------------------------------------
 
+## Promotion on Social Media
+
+To raise awareness and build community support, we plan to share updates and resources through multiple platforms. The current requirement is:
+
+1. **5 Posts** — Share updates, tutorials, or announcements on Twitter, LinkedIn, or other social channels.
+2. **2 Forum Posts** — Start or participate in discussions on the [Arbitrum community forum](https://forum.arbitrum.io/).
+3. **5 Developer Community Outreach Efforts** — Collaborate with developer groups, existing dev communities, or host mini-workshops.
+
+We'll keep track of these promotional efforts in the repository, creating transparency and showing how we're spreading the word.
+
+--------------------------------------------------------------------------------
 
 ## License
 
