@@ -36,9 +36,9 @@ The Arbitrum Stylus Comprehensive Educational Program is designed to:
 
 Below are some important links and sub-domains for quick access:
 
-- [Arbitrum Stylus Overview]([https://developer.arbitrum.io/stylus](https://docs.arbitrum.io/stylus/gentle-introduction))
-- [Arbitrum Stylus Solana Educational Gitbook]([https://example.com/educational-gitbook](https://shems-organization.gitbook.io/stylus))
-- [Arbitrum Stylus Awesome Resources]([https://github.com/OffchainLabs/awesome-stylus](https://github.com/OffchainLabs/awesome-stylus))
+- [Arbitrum Stylus Overview](https://docs.arbitrum.io/stylus/gentle-introduction)
+- [Arbitrum Stylus Solana Educational Gitbook](https://shems-organization.gitbook.io/stylus)
+- [Arbitrum Stylus Awesome Resources](https://github.com/OffchainLabs/awesome-stylus)
 
 Feel free to suggest additional resources in your contributions!
 
