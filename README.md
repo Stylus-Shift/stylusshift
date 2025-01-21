@@ -99,11 +99,11 @@ We welcome all contributions that enrich the Arbitrum Stylus Community: from min
 Below is a quick walkthrough of how to contribute:
 
 1. **Fork the Repository**
-   ![Screenshot: Fork Button](https://harlequin-blonde-guanaco-849.mypinata.cloud/files/bafkreib3iugbql4fllxprjqzipawxwvu7aovj2h7mu3o4lsvuoswybo5v4?X-Algorithm=PINATA1&X-Date=1737485647&X-Expires=30&X-Method=GET&X-Signature=fcf757eaca85527a93340ace45101276acce0da645b76394f6faf85318389bd1)
+   ![Screenshot: Fork Button](https://private-user-images.githubusercontent.com/150002326/405355331-eba56e24-758a-4a45-aaf7-a7faf91d6265.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc0ODcxNTQsIm5iZiI6MTczNzQ4Njg1NCwicGF0aCI6Ii8xNTAwMDIzMjYvNDA1MzU1MzMxLWViYTU2ZTI0LTc1OGEtNGE0NS1hYWY3LWE3ZmFmOTFkNjI2NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyMVQxOTE0MTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMmEyN2UwZmYxZmE0MWRmM2FmNWZmOGQ2OTc0YjYzMmU4ZDU3OGZjYTU5YzRjOTg0MjBlNTBlMGU4MzBlZTdmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.0dH5vs31GJhpUEyWI5b81PSIkIGqbyjEoeziz6u6DaY)
    - Click the "Fork" button on GitHub to create your own copy of this repo.
 
 2. **Clone Your Fork**
-   ![Screenshot: Clone Command](https://harlequin-blonde-guanaco-849.mypinata.cloud/files/bafkreih5do7gpym6iocgscsa3wwkg3m4lrsor7zozf3vb2ipr3ccg4lddy?X-Algorithm=PINATA1&X-Date=1737485566&X-Expires=30&X-Method=GET&X-Signature=cee53cc10131d9eb630864b5b92bf8172bd6e38bea60abce8758dea82d7e6034)
+   ![Screenshot: Clone Command](https://private-user-images.githubusercontent.com/150002326/405355330-2b148f12-3e78-4bb8-a3d3-906c4eeb4cfe.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc0ODcxNTQsIm5iZiI6MTczNzQ4Njg1NCwicGF0aCI6Ii8xNTAwMDIzMjYvNDA1MzU1MzMwLTJiMTQ4ZjEyLTNlNzgtNGJiOC1hM2QzLTkwNmM0ZWViNGNmZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyMVQxOTE0MTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ZmU4MWQzZTBhNjQxYTgyMjJkMmU0ZDkyYzE2ZTQ4YmJhMzY5Njg5YWU2NzJmY2M1YTMzZDVhMmUzZGEzYTQzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.aSy0qz28-5snIFZCTpkSVm-55FR7vUMwysZLjdJ_Elc)
    - In your terminal:
      ```bash
      git clone https://github.com/YOUR_USERNAME/arbitrum-stylus-repo.git
@@ -128,7 +128,7 @@ Below is a quick walkthrough of how to contribute:
      ```
 
 6. **Open a Pull Request**
-   ![Screenshot: Pull Request Page](https://harlequin-blonde-guanaco-849.mypinata.cloud/files/bafkreidqfscavfzz7qtgidxkdinhzx2q6hjk2fgzmmlfh2tww4p3ojcrdm?X-Algorithm=PINATA1&X-Date=1737485571&X-Expires=30&X-Method=GET&X-Signature=5a65bef652a23b5203576800f7f7954c1f273a66e431d50762b417d222934c39)
+   ![Screenshot: Pull Request Page](https://private-user-images.githubusercontent.com/150002326/405355332-41021dd0-b395-4925-ac35-367a2eeba3a1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc0ODY5ODAsIm5iZiI6MTczNzQ4NjY4MCwicGF0aCI6Ii8xNTAwMDIzMjYvNDA1MzU1MzMyLTQxMDIxZGQwLWIzOTUtNDkyNS1hYzM1LTM2N2EyZWViYTNhMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyMVQxOTExMjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xZjFiZmY3NzJhZDYxZmQwOGFjOTY4NGZkOGMwNjc3OTM2MzJiNzVjZmI2MWRhM2ZlYTY3MDc3Y2MxZTMzZmI2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.DGftpPT6F_9K39MYSyQtck9UA4BlVFdh3Azq5sa_e3A)
    - Visit your fork on GitHub.
    - Click "Compare & pull request" to merge your branch into the main repository.
    - Provide a clear description of your contribution.
