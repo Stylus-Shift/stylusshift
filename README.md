@@ -5,7 +5,7 @@ Welcome to the Arbitrum Stylus Community Repository! Our mission is to provide a
 Here's what this project aims to provide:
 
 1. In-depth guidelines on **blockchain migration** to Arbitrum Stylus.
-2. A step-by-step process to **make contributions** (with screenshots).
+2. A step-by-step process to **make contributions**.
 3. A **clear category map** to help structure and organize all user submissions.
 4. Resources and tutorials that guide you through project setup and content creation.
 
@@ -19,7 +19,6 @@ Here's what this project aims to provide:
 - [Category Map](#category-map)
 - [How to Contribute](#how-to-contribute)
   - [Step-by-Step Guide (With Screenshots)](#step-by-step-guide-with-screenshots)
-- [Promotion on Social Media](#promotion-on-social-media)
 - [License](#license)
 
 --------------------------------------------------------------------------------
@@ -37,10 +36,9 @@ The Arbitrum Stylus Comprehensive Educational Program is designed to:
 
 Below are some important links and sub-domains for quick access:
 
-- [Arbitrum Official Documentation](https://docs.arbitrum.io/)
-- [Arbitrum Stylus Overview](https://developer.arbitrum.io/stylus)
-- [Arbitrum Stylus Educational Gitbook](https://example.com/educational-gitbook)
-- [Community Discussion Forums](https://forum.arbitrum.io/)
+- [Arbitrum Stylus Overview]([https://developer.arbitrum.io/stylus](https://docs.arbitrum.io/stylus/gentle-introduction))
+- [Arbitrum Stylus Solana Educational Gitbook]([https://example.com/educational-gitbook](https://shems-organization.gitbook.io/stylus))
+- [Arbitrum Stylus Awesome Resources]([https://github.com/OffchainLabs/awesome-stylus](https://github.com/OffchainLabs/awesome-stylus))
 
 Feel free to suggest additional resources in your contributions!
 
@@ -55,7 +53,7 @@ Moving from Ethereum, Solana, or other blockchains to Arbitrum Stylus requires a
 
 2. **Configure Your Tooling**
    - Install or update your development environment to support Stylus.
-   - Check out sample configuration files or specialized compilers (if any) in the [Stylus Educational Gitbook](https://example.com/educational-gitbook).
+  
 
 3. **Translate Contract Logic**
    - Identify equivalents for your current code within the Arbitrum ecosystem (e.g., contract addresses, library usage).
@@ -65,7 +63,6 @@ Moving from Ethereum, Solana, or other blockchains to Arbitrum Stylus requires a
    - Use local testnets or Arbitrum testnets to verify contract functionality.
    - Perform audits to ensure optimal performance and security once you move into production.
 
-If you need more in-depth guidance, check out the [Arbitrum Migration Guide](https://docs.arbitrum.io/migration-guide) for specific step-by-step instructions tailored for different ecosystems.
 
 --------------------------------------------------------------------------------
 
@@ -103,7 +100,7 @@ Below is a quick walkthrough of how to contribute:
    - Click the "Fork" button on GitHub to create your own copy of this repo.
 
 2. **Clone Your Fork**
-   ![Screenshot: Clone Command](https://private-user-images.githubusercontent.com/150002326/405355330-2b148f12-3e78-4bb8-a3d3-906c4eeb4cfe.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc0ODcxNTQsIm5iZiI6MTczNzQ4Njg1NCwicGF0aCI6Ii8xNTAwMDIzMjYvNDA1MzU1MzMwLTJiMTQ4ZjEyLTNlNzgtNGJiOC1hM2QzLTkwNmM0ZWViNGNmZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyMVQxOTE0MTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ZmU4MWQzZTBhNjQxYTgyMjJkMmU0ZDkyYzE2ZTQ4YmJhMzY5Njg5YWU2NzJmY2M1YTMzZDVhMmUzZGEzYTQzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.aSy0qz28-5snIFZCTpkSVm-55FR7vUMwysZLjdJ_Elc)
+   ![Screenshot: Clone URL](https://private-user-images.githubusercontent.com/150002326/405355330-2b148f12-3e78-4bb8-a3d3-906c4eeb4cfe.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc0ODcxNTQsIm5iZiI6MTczNzQ4Njg1NCwicGF0aCI6Ii8xNTAwMDIzMjYvNDA1MzU1MzMwLTJiMTQ4ZjEyLTNlNzgtNGJiOC1hM2QzLTkwNmM0ZWViNGNmZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyMVQxOTE0MTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ZmU4MWQzZTBhNjQxYTgyMjJkMmU0ZDkyYzE2ZTQ4YmJhMzY5Njg5YWU2NzJmY2M1YTMzZDVhMmUzZGEzYTQzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.aSy0qz28-5snIFZCTpkSVm-55FR7vUMwysZLjdJ_Elc)
    - In your terminal:
      ```bash
      git clone https://github.com/YOUR_USERNAME/arbitrum-stylus-repo.git
@@ -138,17 +135,7 @@ Below is a quick walkthrough of how to contribute:
 
 --------------------------------------------------------------------------------
 
-## Promotion on Social Media
 
-To raise awareness and build community support, we plan to share updates and resources through multiple platforms. The current requirement is:
-
-1. **5 Posts** — Share updates, tutorials, or announcements on Twitter, LinkedIn, or other social channels.
-2. **2 Forum Posts** — Start or participate in discussions on the [Arbitrum community forum](https://forum.arbitrum.io/).
-3. **5 Developer Community Outreach Efforts** — Collaborate with developer groups, existing dev communities, or host mini-workshops.
-
-We'll keep track of these promotional efforts in the repository, creating transparency and showing how we're spreading the word.
-
---------------------------------------------------------------------------------
 
 ## License
 
