@@ -7,6 +7,9 @@ This section is dedicated to enriching the community with tutorials and guides t
 - Walkthrough articles or demo videos
 - Deep dives into advanced topics
 
+## Resources
+- [Arbitrum Stylus Solana Educational Gitbook](https://shems-organization.gitbook.io/stylus)
+
 ## What to Add
 1. Written or video-based tutorials on various aspects of Arbitrum Stylus.
 2. Comprehensive guides to help new developers get started and troubleshoot common issues.
