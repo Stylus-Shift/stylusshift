@@ -1,1 +1,0 @@
-C:\Users\jumcee\Blockchain\ArbiVoteX\contracts\rust-contracts\quadratic_voting\target\wasm32-unknown-unknown\release\quadratic_voting.wasm: C:\Users\jumcee\Blockchain\ArbiVoteX\contracts\rust-contracts\quadratic_voting\src\lib.rs

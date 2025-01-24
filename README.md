@@ -70,19 +70,19 @@ Moving from Ethereum, Solana, or other blockchains to Arbitrum Stylus requires a
 
 To keep our educational resources organized and easily searchable, please categorize your contributions under one of the following sections:
 
-1. **Tutorials & Guides**
+1. [**Tutorials & Guides**](./contributions/Tutorials%20&%20Guides)  
    - How-to articles, step-by-step guides, video tutorials, and deep dives into topics.
 
-2. **Sample Projects**
+2. [**Sample Projects**](./contributions/Sample%20Projects)  
    - Showcase your proof-of-concepts, reference implementations, or any hands-on code examples.
 
-3. **Migration Resources**
+3. [**Migration Resources**](./contributions/Migration%20Resources)  
    - Tips, best practices, and bridging strategies for moving to Arbitrum Stylus from Ethereum, Solana, or other chains.
 
-4. **Tooling & Frameworks**
+4. [**Tooling & Frameworks**](./contributions/Tooling%20&%20Frameworks)  
    - Documentation on specialized tools, frameworks, compilers, libraries, or integrations used in the Stylus environment.
 
-5. **Community Notes & Discussions**
+5. [**Community Notes & Discussions**](./contributions/Community%20Notes%20&%20Discussions)  
    - High-level discussions, notes from meetups, and relevant Q&A.
 
 --------------------------------------------------------------------------------
@@ -96,11 +96,11 @@ We welcome all contributions that enrich the Arbitrum Stylus Community: from min
 Below is a quick walkthrough of how to contribute:
 
 1. **Fork the Repository**
-   ![Screenshot: Fork Button](https://private-user-images.githubusercontent.com/150002326/405355331-eba56e24-758a-4a45-aaf7-a7faf91d6265.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc0ODcxNTQsIm5iZiI6MTczNzQ4Njg1NCwicGF0aCI6Ii8xNTAwMDIzMjYvNDA1MzU1MzMxLWViYTU2ZTI0LTc1OGEtNGE0NS1hYWY3LWE3ZmFmOTFkNjI2NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyMVQxOTE0MTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMmEyN2UwZmYxZmE0MWRmM2FmNWZmOGQ2OTc0YjYzMmU4ZDU3OGZjYTU5YzRjOTg0MjBlNTBlMGU4MzBlZTdmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.0dH5vs31GJhpUEyWI5b81PSIkIGqbyjEoeziz6u6DaY)
+   ![Screenshot: Fork Button](./assets/fork.png)
    - Click the "Fork" button on GitHub to create your own copy of this repo.
 
 2. **Clone Your Fork**
-   ![Screenshot: Clone URL](https://private-user-images.githubusercontent.com/150002326/405355330-2b148f12-3e78-4bb8-a3d3-906c4eeb4cfe.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc0ODcxNTQsIm5iZiI6MTczNzQ4Njg1NCwicGF0aCI6Ii8xNTAwMDIzMjYvNDA1MzU1MzMwLTJiMTQ4ZjEyLTNlNzgtNGJiOC1hM2QzLTkwNmM0ZWViNGNmZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyMVQxOTE0MTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ZmU4MWQzZTBhNjQxYTgyMjJkMmU0ZDkyYzE2ZTQ4YmJhMzY5Njg5YWU2NzJmY2M1YTMzZDVhMmUzZGEzYTQzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.aSy0qz28-5snIFZCTpkSVm-55FR7vUMwysZLjdJ_Elc)
+   ![Screenshot: Clone URL](./assets/clone.png)
    - In your terminal:
      ```bash
      git clone https://github.com/YOUR_USERNAME/arbitrum-stylus-repo.git
@@ -125,7 +125,7 @@ Below is a quick walkthrough of how to contribute:
      ```
 
 6. **Open a Pull Request**
-   ![Screenshot: Pull Request Page](https://private-user-images.githubusercontent.com/150002326/405355332-41021dd0-b395-4925-ac35-367a2eeba3a1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc0ODY5ODAsIm5iZiI6MTczNzQ4NjY4MCwicGF0aCI6Ii8xNTAwMDIzMjYvNDA1MzU1MzMyLTQxMDIxZGQwLWIzOTUtNDkyNS1hYzM1LTM2N2EyZWViYTNhMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyMVQxOTExMjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xZjFiZmY3NzJhZDYxZmQwOGFjOTY4NGZkOGMwNjc3OTM2MzJiNzVjZmI2MWRhM2ZlYTY3MDc3Y2MxZTMzZmI2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.DGftpPT6F_9K39MYSyQtck9UA4BlVFdh3Azq5sa_e3A)
+   ![Screenshot: Pull Request Page](./assets/pull.png)
    - Visit your fork on GitHub.
    - Click "Compare & pull request" to merge your branch into the main repository.
    - Provide a clear description of your contribution.
